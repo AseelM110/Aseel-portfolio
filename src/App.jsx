@@ -6,7 +6,7 @@ const CONFIG = {
   phone: "01098184398",
   linkedin: "https://www.linkedin.com/in/aseel-mohamed-26290b36b/",
   github: "https://github.com/AseelM110",
-  cv: "",         // path or URL to your CV file, e.g. "/Aseel-CV.pdf"
+  cv: "/Aseel-CV.pdf",         // path or URL to your CV file, e.g. "/Aseel-CV.pdf"
 };
 
 const PROJECTS = [
